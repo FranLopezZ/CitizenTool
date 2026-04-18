@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="citizentool.png" width="120" alt="CitizenTool Logo"/>
-
 # CitizenTool
 
 ### Herramienta de automatización para Star Citizen
