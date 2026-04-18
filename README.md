@@ -56,26 +56,9 @@
 
 ### Interfaz principal
 
-```
-┌─────────────────────────────────────────────────────┐
-│  CitizenTool                    ● INACTIVO (F6=Iniciar) │
-├─────────────────────────────────────────────────────┤
-│  ☑ Clic automatico                                  │
-│     Intervalo: [500] ms ▾                           │
-├─────────────────────────────────────────────────────┤
-│  ☑ Pulsacion de tecla                               │
-│     Tecla: [`]  Intervalo: [1000] ms ▾              │
-├─────────────────────────────────────────────────────┤
-│  ☐ Arrastre automatico (Mueve del punto A al punto B)│
-│     Punto A: X[0] Y[0]  [Capturar]                  │
-│     Punto B: X[200] Y[200] [Capturar]               │
-│     Velocidad: [400] ms  Intervalo: [2000] ms ▾     │
-├─────────────────────────────────────────────────────┤
-│  [▶ Iniciar] [⏹ Detener]  | Tecla: F6              │
-├─────────────────────────────────────────────────────┤
-│  v1.0.0  ↻  |  Citizen Tool by Kisko               │
-└─────────────────────────────────────────────────────┘
-```
+
+<img width="609" height="552" alt="image" src="https://github.com/user-attachments/assets/0b27c1e7-ca29-4ff9-b33c-9c41f88527d2" />
+
 
 ### Controles rápidos
 
