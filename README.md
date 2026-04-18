@@ -4,9 +4,9 @@
 
 ### Herramienta de automatización para Star Citizen
 
-[![Version](https://img.shields.io/badge/version-1.0.0-89b4fa?style=for-the-badge)](https://github.com/TU_USUARIO/TU_REPO/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows-a6e3a1?style=for-the-badge&logo=windows)](https://github.com/TU_USUARIO/TU_REPO/releases)
-[![License](https://img.shields.io/badge/licencia-privada-f38ba8?style=for-the-badge)](https://github.com/TU_USUARIO/TU_REPO)
+[![Version](https://img.shields.io/badge/version-1.0.0-89b4fa?style=for-the-badge)](https://github.com/FranLopezZ/CitizenTool/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-a6e3a1?style=for-the-badge&logo=windows)](https://github.com/FranLopezZ/CitizenTool/releases)
+[![License](https://img.shields.io/badge/licencia-privada-f38ba8?style=for-the-badge)](https://github.com/FranLopezZ/CitizenTool)
 
 </div>
 
@@ -136,6 +136,6 @@ Para solicitar acceso, contacta con el administrador de la organización.
 
 <div align="center">
 
-Hecho con ❤️ para la organización · **Citizen Tool by Kisko** · `v1.0.0`
+Hecho con ❤️ para la organización · **Citizen Tool by Kisko** · `v1.0.1`
 
 </div>
